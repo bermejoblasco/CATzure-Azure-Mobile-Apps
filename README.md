@@ -5,6 +5,8 @@ El proyecto está realizado con VS 2015 update 3 con Xamarin.Froms, pero solo es
 
 Os dejo unos enlaces de referencia:
 https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-value-prop/
+
 https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-xamarin-forms-get-started/
+
 https://developer.xamarin.com/guides/xamarin-forms/web-services/consuming/azure/
 
